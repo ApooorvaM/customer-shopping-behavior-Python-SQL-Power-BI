@@ -263,7 +263,6 @@ The purpose of EDA was to understand the dataset and identify data-quality issue
 
 After data preparation, the cleaned DataFrame was loaded into SQL Server.
 
-```
 Python was connected to SQL Server using SQLAlchemy and the SQL Server ODBC driver.
 
 Conceptually:
