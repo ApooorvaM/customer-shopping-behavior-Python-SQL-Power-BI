@@ -1,38 +1,3 @@
-````markdown
-# Customer Behaviour Analysis | Python + SQL Server + Power BI
-
-An end-to-end customer analytics project that transforms raw CSV data into business insights using **Python, SQL Server, and Power BI**.
-
-The project focuses on understanding customer purchasing behaviour, product performance, discount usage, subscription behaviour, customer loyalty, demographics, and purchasing patterns.
-
----
-
-## 📌 Table of Contents
-
-- [Project Overview](#-project-overview)
-- [Business Problem](#-business-problem)
-- [Project Objectives](#-project-objectives)
-- [Tools & Technologies](#-tools--technologies)
-- [Project Workflow](#-project-workflow)
-- [Dataset](#-dataset)
-- [Data Preparation & Cleaning](#-data-preparation--cleaning)
-- [Feature Engineering](#-feature-engineering)
-- [Exploratory Data Analysis](#-exploratory-data-analysis)
-- [SQL Analysis](#-sql-analysis)
-- [Power BI Dashboard](#-power-bi-dashboard)
-- [Business Questions](#-business-questions)
-- [Key Business Insights](#-key-business-insights)
-- [Business Recommendations](#-business-recommendations)
-- [Project Challenges & Learnings](#-project-challenges--learnings)
-- [Project Structure](#-project-structure)
-- [How to Run the Project](#-how-to-run-the-project)
-- [Skills Demonstrated](#-skills-demonstrated)
-- [Limitations](#-limitations)
-- [Future Improvements](#-future-improvements)
-- [Conclusion](#-conclusion)
-
----
-
 # 📊 Project Overview
 
 This project analyzes customer shopping behaviour through a complete data analytics pipeline.
