@@ -70,53 +70,6 @@ The project was designed to:
 
 ---
 
-# 🔄 Project Workflow
-
-
-                    ┌─────────────────┐
-                    │   Raw CSV Data  │
-                    └────────┬────────┘
-                             │
-                             ▼
-                    ┌─────────────────┐
-                    │     Python      │
-                    │  Data Cleaning  │
-                    │      + EDA      │
-                    └────────┬────────┘
-                             │
-                             ▼
-                    ┌─────────────────┐
-                    │ Feature         │
-                    │ Engineering     │
-                    └────────┬────────┘
-                             │
-                             ▼
-                    ┌─────────────────┐
-                    │   SQL Server    │
-                    │ Data Storage    │
-                    └────────┬────────┘
-                             │
-                             ▼
-                    ┌─────────────────┐
-                    │ SQL Business    │
-                    │    Analysis     │
-                    └────────┬────────┘
-                             │
-                             ▼
-                    ┌─────────────────┐
-                    │    Power BI     │
-                    │    Dashboard    │
-                    └────────┬────────┘
-                             │
-                             ▼
-                    ┌─────────────────┐
-                    │    Business     │
-                    │    Insights     │
-                    └─────────────────┘
-
-
----
-
 # 📁 Dataset
 
 The dataset contains **3,900 customer records** and originally contains **18 columns**.
@@ -315,7 +268,6 @@ Python was connected to SQL Server using SQLAlchemy and the SQL Server ODBC driv
 
 Conceptually:
 
-```text
 Python DataFrame
        ↓
    SQLAlchemy
@@ -325,9 +277,7 @@ Python DataFrame
  SQL Server
        ↓
  customer table
-```
 
----
 
 # 🔎 SQL Analysis
 
