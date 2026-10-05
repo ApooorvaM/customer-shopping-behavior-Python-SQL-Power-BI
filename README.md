@@ -378,38 +378,17 @@ The dashboard brings together the analysis from Python and SQL into a business-f
 
 
 
-```text
 ![Power BI Dashboard](<img width="428" height="241" alt="Screenshot 2026-10-05 120754" src="https://github.com/user-attachments/assets/9a2b878b-452f-4cdc-aed1-f4e40f63ed84" />
 )
-```
 
-
-## 📸 Dashboard Screenshots
-
-### Executive Overview
-
-```markdown
-![Executive Dashboard](<img width="428" height="241" alt="Screenshot 2026-10-05 120754" src="https://github.com/user-attachments/assets/bea43ab1-1bdc-4449-9744-28e109cbfdff" />
-)
-```
 
 
 # 📥 Power BI File
 
 Upload your Power BI `.pbix` file to the repository and add the link here.
 
-```markdown
 [Download Power BI Dashboard](dashboard.pbix)
-```
 
-Recommended folder:
-
-```text
-PowerBI/
-└── customer_behaviour_analysis.pbix
-```
-
----
 
 
 # 🧠 Key Business Insights
@@ -570,7 +549,6 @@ A real analytics workflow often requires more than one tool. Understanding how t
 
 # 📂 Project Structure
 
-```text
 customer-behaviour-analysis/
 │
 ├── README.md
