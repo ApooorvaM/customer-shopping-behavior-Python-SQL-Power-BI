@@ -72,7 +72,7 @@ The project was designed to:
 
 # 🔄 Project Workflow
 
-```text
+
                     ┌─────────────────┐
                     │   Raw CSV Data  │
                     └────────┬────────┘
@@ -113,7 +113,7 @@ The project was designed to:
                     │    Business     │
                     │    Insights     │
                     └─────────────────┘
-````
+
 
 ---
 
