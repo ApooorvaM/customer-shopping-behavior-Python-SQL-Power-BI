@@ -373,13 +373,8 @@ The final stage of the project is an interactive Power BI dashboard.
 
 The dashboard brings together the analysis from Python and SQL into a business-facing reporting layer.
 
+<img width="428" height="241" alt="Screenshot 2026-10-05 120754" src="https://github.com/user-attachments/assets/bf2224fb-a517-4fe6-bac2-c696f3582428" />
 
-
-
-
-
-![Power BI Dashboard](<img width="428" height="241" alt="Screenshot 2026-10-05 120754" src="https://github.com/user-attachments/assets/9a2b878b-452f-4cdc-aed1-f4e40f63ed84" />
-)
 
 
 
